@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Homepage - Highest priority -->
+  <url>
+    <loc>https://punchmonkey.vercel.app/</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Main Topic: Croods Punch Monkey -->
+  <url>
+    <loc>https://punchmonkey.vercel.app/croods-punch-monkey</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Sub-topic: Punch Monkey Species/Types -->
+  <url>
+    <loc>https://punchmonkey.vercel.app/punch-monkey-types</loc>
+    <lastmod>2026-02-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Sub-topic: Punch Monkey Language -->
+  <url>
+    <loc>https://punchmonkey.vercel.app/punch-monkey-language</loc>
+    <lastmod>2026-02-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Main Topic: Real Punch-kun (Japan) -->
+  <url>
+    <loc>https://punchmonkey.vercel.app/real-punch-kun</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <!-- Main Topic: Hazard KY Monkey Punch -->
+  <url>
+    <loc>https://punchmonkey.vercel.app/hazard-ky</loc>
+    <lastmod>2026-02-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Main Topic: Punch Monkey Plush / Merchandise -->
+  <url>
+    <loc>https://punchmonkey.vercel.app/punch-monkey-plush</loc>
+    <lastmod>2026-02-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Sub-topic: How to Draw Punch Monkey -->
+  <url>
+    <loc>https://punchmonkey.vercel.app/how-to-draw</loc>
+    <lastmod>2026-02-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <!-- Main Topic: Punch Monkey Meaning / Definitions -->
+  <url>
+    <loc>https://punchmonkey.vercel.app/meaning</loc>
+    <lastmod>2026-02-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Video/Gallery Page (if you create one) -->
+  <url>
+    <loc>https://punchmonkey.vercel.app/videos</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <!-- Sitemap entry for the sitemap itself (optional but good practice) -->
+  <url>
+    <loc>https://punchmonkey.vercel.app/sitemap.xml</loc>
+    <lastmod>2026-02-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.3</priority>
+  </url>
+</urlset>

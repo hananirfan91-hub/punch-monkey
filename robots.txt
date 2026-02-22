@@ -1,0 +1,57 @@
+# robots.txt for Punch Monkey World
+# https://punchmonkey.vercel.app
+
+# Allow all well-behaved crawlers full access
+User-agent: *
+Allow: /
+
+# Disallow access to private or temporary directories (if they exist)
+Disallow: /private/
+Disallow: /temp/
+Disallow: /admin/
+Disallow: /includes/
+
+# Specify the location of your sitemap
+Sitemap: https://punchmonkey.vercel.app/sitemap.xml
+
+# Crawl delay to be polite to servers (optional - adjust if needed)
+# Crawl-delay: 1
+
+# Host directive (optional, helps specify preferred domain)
+Host: https://punchmonkey.vercel.app
+
+# Specific rules for different bots (optional)
+
+# Googlebot (can have specific rules if needed)
+User-agent: Googlebot
+Allow: /
+Disallow: /private/
+
+# Bingbot
+User-agent: Bingbot
+Allow: /
+Disallow: /private/
+
+# Baidu (Chinese search engine)
+User-agent: Baiduspider
+Allow: /
+Disallow: /private/
+
+# Yandex (Russian search engine)
+User-agent: Yandex
+Allow: /
+Disallow: /private/
+
+# Disallow bad bots (example - you can add more)
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+# Rate limiting suggestion (commented out by default)
+# Visit-time: 04:00-06:00
+# Request-rate: 1/5
